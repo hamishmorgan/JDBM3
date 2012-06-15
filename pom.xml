@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>uk.ac.susx.mlcl</groupId>
     <artifactId>jdbm</artifactId>
-    <version>3.0-SNAPSHOT</version>
+    <version>3.0-alpha3</version>
 
 
     <developers>
